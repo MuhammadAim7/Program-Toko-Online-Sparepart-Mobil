@@ -1,0 +1,50 @@
+
+## 🛒 Program Toko Online Sparepart Mobil
+
+Aplikasi ini merupakan **sistem toko online** berbasis web yang dibangun dengan **CodeIgniter 3**, ditujukan untuk memudahkan penjualan dan pengelolaan data sparepart mobil. Sistem ini mencakup fitur katalog produk, manajemen stok, pemesanan, serta halaman admin untuk mengelola data.
+
+---
+
+## ⚙️ Cara Instalasi
+
+1. **Clone repositori ini:**
+
+   ```bash
+   git clone https://github.com/MuhammadAim7/Program-Toko-Online-Sparepart-Mobil.git
+   ```
+
+2. **Pindahkan folder ke direktori server lokal Anda**
+   Contoh: `htdocs` (XAMPP) atau `www` (Laragon/WAMP).
+
+3. **Buat database baru di phpMyAdmin**, misalnya dengan nama: `toko_sparepart`.
+
+4. **Import file database:**
+
+   * File SQL belum disertakan dalam repositori.
+   * Silakan hubungi kontak di bawah ini untuk mendapatkan file SQL lengkap.
+
+5. **Sesuaikan konfigurasi database:**
+
+   * Buka file: `application/config/database.php`
+   * Ubah konfigurasi menjadi:
+
+     ```php
+     'hostname' => 'localhost',
+     'username' => 'root',
+     'password' => '',
+     'database' => 'toko_sparepart',
+     ```
+
+6. **Akses aplikasi melalui browser:**
+
+   ```
+   http://localhost/Program-Toko-Online-Sparepart-Mobil/
+   ```
+
+---
+
+## 📥 Mendapatkan File Database
+
+Silakan hubungi kontak di bawah ini untuk mendapatkan file database SQL yang diperlukan:
+
+👉 [Klik untuk menghubungi via WhatsApp](https://wa.me/6281393768674)
